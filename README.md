@@ -1,2 +1,6 @@
-# work_A
-homework_1
+GitHub Pages Exercise
+===========
+Involves
+* git
+* GitHub
+* SSH
